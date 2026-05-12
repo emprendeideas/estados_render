@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+story_temp.jpg
+.env

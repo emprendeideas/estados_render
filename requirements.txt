@@ -1,0 +1,8 @@
+telethon
+flask
+requests
+pymongo
+apscheduler
+tgcrypto
+cryptg
+dnspython
