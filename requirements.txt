@@ -1,8 +1,8 @@
-telethon
-flask
-requests
-pymongo
-apscheduler
-tgcrypto
-cryptg
-dnspython
+telethon==1.36.0
+flask==3.0.0
+requests==2.31.0
+pymongo==3.11
+apscheduler==3.10.4
+tgcrypto==1.2.5
+cryptg==0.4.0
+dnspython==2.6.1
