@@ -3,6 +3,4 @@ flask==3.0.0
 requests==2.31.0
 pymongo[srv]==3.11
 apscheduler==3.10.4
-tgcrypto==1.2.5
-cryptg==0.4.0
 dnspython==2.6.1
