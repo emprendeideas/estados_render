@@ -441,6 +441,10 @@ def main():
 
     print("✅ Scheduler iniciado")
 
+    telegram.loop.run_until_complete(
+        publicar_story()
+    )
+
     iniciar_web()
 
     telegram.run_until_disconnected()
